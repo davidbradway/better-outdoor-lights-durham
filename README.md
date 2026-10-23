@@ -2,7 +2,7 @@
 
 Website for **BOLD (Better Outdoor Lights Durham)**, a volunteer effort by Durham, NC neighbors asking the City to right-size residential streetlights. #BetterOutdoorLightsDurham
 
-Live site: https://davidbradway.github.io/better-outdoor-lights-durham/
+Live site: https://bold-nc.org/
 
 ## Background
 
