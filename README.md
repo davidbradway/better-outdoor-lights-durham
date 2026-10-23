@@ -12,7 +12,7 @@ On September 17, 2026, lighting engineer Dane Sanders, PE (Clanton & Associates)
 
 - `index.html`: the whole site, a single static page with inline styles
 - `*.jpg`: site photos from the night walk
-- `Durham Street Lighting Night Walk Summary_2026-09-17.pdf`: the full Clanton & Associates report
+- `clanton-night-walk-2026-09-17.pdf`: the full Clanton & Associates report
 - `.github/workflows/pages.yml`: deploys the site to GitHub Pages on every push to `main`
 
 ## Editing
